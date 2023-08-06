@@ -1,0 +1,1 @@
+<h3>Dữ liệu không hợp lệ</h3><a href="{{ URL::previous() }}">Quay lại trang trước</a>
